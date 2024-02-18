@@ -1,5 +1,5 @@
 
-# AWS and DevOps Learning Journey
+# AWS Learning Journey
 
 ## Day 1: Introduction to Cloud Computing
 
